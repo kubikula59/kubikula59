@@ -1,6 +1,6 @@
 <h3 align="center">
     Hi
-    <img src="https://raw.githubusercontent.com/kubikula59/kubikula59/master/wave.gif" 
+    <img src="https://raw.githubusercontent.com/kubikula59/kubikula59/main/wave.gif" 
          height="45"
          width="45" />
     I'm Jakub!
