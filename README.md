@@ -11,7 +11,7 @@
 - 📚 High school student
 - 🛡️ Cyber security enthusiast
 - 👨‍💻 Junior developer
-- 📫 Discord - kubikula#9999
+- 📫 Discord - kubikula#6904
 
 <h3> &nbsp;Skills </h3>
 
