@@ -8,9 +8,9 @@
 
 <h3> &nbsp;About Me </h3>
 
-- 📚 High school student
+- 📚 Software engineering student @ ZČU FAV
 - 👨‍💻 Junior developer
-- 📫 Discord - kubikula#6904
+- 📫 Discord - kubiiicekkk
 
 <h3> &nbsp;Skills </h3>
 
